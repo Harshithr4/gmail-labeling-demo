@@ -7,6 +7,6 @@ This demo shows a fully automated Gmail labeling system using:
 - 🧠 AI (Cursor AI or Grok) for text classification
 - ✉️ Gmail integration for real-time email management
 
-🎥 https://github.com/Harshithr4/gmail-labeling-demo/tree/main
+🎥 https://github.com/Harshithr4/gmail-labeling-demo/tree/main/demo.mp4
 
 > 🚀 This project shows how AI and no-code tools can help automate email organization.
